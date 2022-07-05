@@ -38,7 +38,7 @@ The dataset contains open, high, low, close, adjusted close prices and volume of
 
 **Result of SARIMA Model: Here, the seasonal factor is accounted by the model and it is for this feature that our model has produced such accurate predictions**
 
-![image](https://user-images.githubusercontent.com/99166745/177277124-b1e7d3e0-b6c2-4767-9a64-b6de9411d1a6.png)
+![image](https://user-images.githubusercontent.com/99166745/177285085-901f7a9e-28c4-4970-b321-2e44e728ae72.png)
 
 **Forecasted Price for next 30 days**
 
