@@ -1,4 +1,7 @@
 # Google_Stock_Price_Prediction_Time_Series_Analysis
+
+![Green Simple Professional LinkedIn Banner----](https://user-images.githubusercontent.com/99166745/177326636-7f8ce7bc-37ee-40f3-814f-ccf2232a3b70.png)
+
 *In this project, I have attempted to predict the stock price of Alphabet Inc., the parent company of GOOGLE for next 30 days using SARIMA Model.*
 
 I have also implemented ARIMA model on the dataset to express the difference between ARIMA and SARIMA models. Broadly, the SARIMA captures the seasonality in the data which can be attributed as a characteristic of a time series in which the data experiences regular and predictable changes that recur at specific intervals and thus is able to produce better results in our analysis.
