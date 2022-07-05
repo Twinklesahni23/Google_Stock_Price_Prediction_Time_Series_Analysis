@@ -42,6 +42,5 @@ The dataset contains open, high, low, close, adjusted close prices and volume of
 
 **Forecasted Price for next 30 days**
 
-![image](https://user-images.githubusercontent.com/99166745/177277451-2af6db9c-8309-4eb2-8d48-a20ba2d9bc28.png)
-
+![image](https://user-images.githubusercontent.com/99166745/177284903-3f6b6332-b888-4067-964e-12d5d2b2847b.png)
 
